@@ -16,5 +16,14 @@ In this project, my group was tasked with creating an FYP system using object-or
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-# Youtube link to watch the demo: https://youtu.be/zZ5IHYYbWF4
+# Project Contribution Members
+
+* Chung Zhi Xuan
+* Tee Qin Tong Bettina
+* Cheam Zhong Sheng Andrew
+* Ting Ruo Chee
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+### Youtube link to watch the demo: https://youtu.be/zZ5IHYYbWF4
 
